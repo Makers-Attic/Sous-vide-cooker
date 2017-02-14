@@ -44,5 +44,5 @@ A temperature controller for Sous vide method
 	```
 	s=? query target temperature
 	s=70 set target temperature to 70 degree C	
-	t=? query target temperature
+	t=? query current temperature
 	```
