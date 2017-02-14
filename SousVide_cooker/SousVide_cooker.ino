@@ -106,7 +106,7 @@ void parseCommand(String com)
            GND
 
     R to temperature formula
-    T = (Rrtd - 100)* 0.3851
+    T = (Rrtd - 100)/ 0.3851
 */
 
 #define R1 (250.0)

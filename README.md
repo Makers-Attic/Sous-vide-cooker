@@ -35,7 +35,7 @@ A temperature controller for Sous vide method
 	RTD = (adc * R1) / (ADC_MAX - adc)
 
 	R to temperature formula
-	T = (Rrtd - 100)* 0.3851
+	T = (Rrtd - 100)/ 0.3851
 	```
 - You can change target temperature and read current temperature by using serial console
 
